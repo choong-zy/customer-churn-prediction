@@ -1,0 +1,6 @@
+How to run the apllication:
+1. open the python app
+2. change the file path in line 7 to the trained_model.sav file path
+2. run the path of the python application file in the python terminal : 
+streamlit run "file path of the python file"
+
